@@ -66,7 +66,7 @@ butchange.onclick=function(){
 	}else if(flag==1){
 		change1.style.backgroundColor="lavender";
 		change2.style.backgroundColor="lavender";
-		flag=2;
+		flag=0;
 	}
 }
 
